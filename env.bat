@@ -1,4 +1,4 @@
-set DBHOST=localhost
-set DBUSER=manager
-set DBNAME=pollsdb
-set DBPASS=supersecretpass
+set DBHOST=hrms-postgress
+set DBUSER=aspark_admin
+set DBNAME=hrms
+set DBPASS=Password@123

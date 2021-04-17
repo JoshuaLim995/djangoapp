@@ -1,4 +1,4 @@
-$Env:DBHOST = "localhost"
-$Env:DBUSER = "manager"
-$Env:DBNAME = "pollsdb"
-$Env:DBPASS = "supersecretpass"
+$Env:DBHOST = "hrms-postgress"
+$Env:DBUSER = "aspark_admin"
+$Env:DBNAME = "hrms"
+$Env:DBPASS = "Password@123"
